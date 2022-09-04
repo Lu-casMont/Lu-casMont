@@ -3,11 +3,13 @@
 - 📔 Atualmente estudando MongoDB, TypeScript, SASS, espanhol e outras coisas mais
 - 📧 Contate-me no email: lucasbamn@gmail.com
 - 😃 Pronomes: Ele/dele
+
 <div align="center">
   <a href="https://github.com/Lu-casMont">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lu-casMont&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-casMont&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="42%" height="160em" src="https://github-readme-stats.vercel.app/api?username=Lu-casMont&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="42%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-casMont&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScrip icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
